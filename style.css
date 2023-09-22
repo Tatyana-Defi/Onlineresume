@@ -1,0 +1,49 @@
+img{
+width: 250px;
+border-style:double;
+border-color:plum;
+margin-left: 87.9px
+
+
+}
+
+h1{
+text-align: center;
+font-size:  40px;
+ background-color: lavender;
+font-family: fantasy;
+}
+
+.about{
+text-align:center;
+margin-top: 20px;
+font-family:fantasy;
+background-color: lavender;
+}
+
+article {
+padding-top:14px;
+font-family:; 
+}
+
+table, th, td {
+border: 2px solid purple;
+}
+
+footer {
+    position:relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: lavender;
+    color: black;
+    text-align: center;
+    padding: 0.8px ;
+    margin-top:25px;
+    font-family: fantasy;
+}
+
+span {
+ background-color: lavender;  
+}
+

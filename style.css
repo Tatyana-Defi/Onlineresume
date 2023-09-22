@@ -11,13 +11,13 @@ h1{
 text-align: center;
 font-size:  40px;
  background-color: lavender;
-font-family: fantasy;
+font-family: ;
 }
 
 .about{
 text-align:center;
 margin-top: 20px;
-font-family:fantasy;
+font-family:;
 background-color: lavender;
 }
 
@@ -40,7 +40,7 @@ footer {
     text-align: center;
     padding: 0.8px ;
     margin-top:25px;
-    font-family: fantasy;
+    font-family: ;
 }
 
 span {
